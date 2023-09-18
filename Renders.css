@@ -1,0 +1,153 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 175px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 35px auto;
+}.u-section-2 .u-sheet-1 {
+  min-height: 1260px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 25px auto 0;
+}
+
+.u-section-2 .u-text-2 {
+  margin: 25px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 395px;
+  height: 222px;
+  margin: 25px auto 0 163px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 395px;
+  height: 222px;
+  margin: -222px auto 0 583px;
+}
+
+.u-section-2 .u-image-3 {
+  width: 395px;
+  height: 222px;
+  margin: 25px auto 0;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 25px auto 0;
+}
+
+.u-section-2 .u-image-4 {
+  width: 395px;
+  height: 222px;
+  margin: 25px auto 0 163px;
+}
+
+.u-section-2 .u-image-5 {
+  width: 395px;
+  height: 222px;
+  margin: -222px 163px 0 auto;
+}
+
+.u-section-2 .u-text-4 {
+  margin: 25px auto 0;
+}
+
+.u-section-2 .u-image-6 {
+  width: 395px;
+  height: 222px;
+  margin: 25px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-image-1 {
+    margin-left: 82px;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-left: 464px;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-left: 82px;
+  }
+
+  .u-section-2 .u-image-5 {
+    margin-left: 464px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-2 {
+    margin-left: 244px;
+  }
+
+  .u-section-2 .u-image-5 {
+    margin-left: 244px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-image-1 {
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-4 {
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-image-5 {
+    margin-left: auto;
+    margin-right: 145px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 1074px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 340px;
+    height: 191px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 340px;
+    height: 191px;
+    margin-top: -191px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-3 {
+    width: 340px;
+    height: 191px;
+  }
+
+  .u-section-2 .u-image-4 {
+    width: 340px;
+    height: 191px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-5 {
+    width: 340px;
+    height: 191px;
+    margin-top: -191px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-6 {
+    width: 340px;
+    height: 191px;
+  }
+}
